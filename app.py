@@ -209,7 +209,7 @@ def perform_ocr(reader, img):
 # --- Main App ---
 def main():
     st.title("🔍 Automated Digital Forensic Triage Dashboard")
-    st.markdown("Developed as part of an MSc Digital Forensics Dissertation. **Now featuring Hybrid OCR Intelligence.**")
+    st.markdown("Developed as part of an MSc Cyber Security Dissertation at Manchester Metropolitan University. **Now featuring Hybrid OCR Intelligence.**")
     
     # Load Models
     ocr_reader = load_ocr_reader()

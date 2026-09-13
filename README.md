@@ -13,7 +13,7 @@
 
 Modern law enforcement agencies face severe **digital forensics backlogs**, with forensic laboratories often taking 12 to 24 months to analyze seized digital storage media (hard drives, mobile phones, SD cards). A single forensic image may contain hundreds of thousands of irrelevant system and cache images, burying critical evidence of illicit activity.
 
-This repository presents an **Automated Forensic Image Triage System** designed to rapidly scan, classify, and prioritize evidentiary media before deep forensic examination. Developed as part of an MSc Digital Forensics dissertation, the platform combines **Deep Convolutional Neural Networks (CNNs)**, **Deterministic OpenCV Spatial/Color Feature Extractors**, and **Hybrid Optical Character Recognition (OCR) Semantic Overrides** to detect contraband categories with high recall:
+This repository presents an **Automated Forensic Image Triage System** designed to rapidly scan, classify, and prioritize evidentiary media before deep forensic examination. Developed as part of an MSc Cyber Security dissertation at Manchester Metropolitan University, the platform combines **Deep Convolutional Neural Networks (CNNs)**, **Deterministic OpenCV Spatial/Color Feature Extractors**, and **Hybrid Optical Character Recognition (OCR) Semantic Overrides** to detect contraband categories with high recall:
 * 💊 **Illicit Narcotics & Prescription Drugs**
 * 🔫 **Weapons & Firearms**
 * 🍾 **Alcohol Contraband**
@@ -204,9 +204,12 @@ forensic-image-triage/
 
 ## 👤 Author & Acknowledgments
 
-* **Author**: Alston Darren Pereira
-* **Degree**: MSc Digital Forensics
-* **Institution**: University of Bedfordshire / Digital Forensics Research Group
+* **Author**: Alston Darren Pereira (Student ID: 24850898)
+* **Degree**: MSc Cyber Security
+* **Supervisor**: Dr. Alex Akinbi
+* **Department**: Department of Computing and Mathematics
+* **Faculty**: Faculty of Science and Engineering
+* **Institution**: Manchester Metropolitan University
 
 ---
 
