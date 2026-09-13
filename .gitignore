@@ -19,6 +19,16 @@ trash/
 models_output/vgg16/*.pth
 models_output/knn_forensic_model.pkl
 
+# Dissertation Text Drafts & Academic Submissions (Keep local to prevent plagiarism flags)
+*_Draft.md
+*.docx
+*.pdf
+*.docs
+docx_output.txt
+proposal/
+reference_material/
+papers/
+
 # Temporary Office and OS files
 ~$*
 .DS_Store
