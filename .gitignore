@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Large Datasets & Archives (GitHub blocks files >100MB)
+data/
+archive/
+trash/
+*.zip
+*.tar.gz
+*.msi
+
+# Large Model Weights (>100MB GitHub hard rejection limit)
+models_output/vgg16/*.pth
+models_output/knn_forensic_model.pkl
+
+# Temporary Office and OS files
+~$*
+.DS_Store
+Thumbs.db

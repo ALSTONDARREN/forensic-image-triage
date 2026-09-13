@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+     Alcohol       0.92      0.95      0.94       708
+       Drugs       0.96      1.00      0.98      1350
+     Weapons       0.96      0.79      0.87       414
+
+    accuracy                           0.95      2472
+   macro avg       0.95      0.91      0.93      2472
+weighted avg       0.95      0.95      0.95      2472
